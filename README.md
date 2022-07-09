@@ -8,3 +8,5 @@ cd docker-django
 docker-compose run web django-admin startproject mysite .
 docker-compose up
 ```
+
+Go with you Webbrowser to http://localhost:8000
